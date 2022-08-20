@@ -879,13 +879,17 @@
         width: 38px; }
     .promo__link {
       font-size: 15px; }
-
+  .button {
+    font-size: 10px;
+  }
   .button_main {
     width: 250px;
     height: 45px;
-    margin-top: 50px; }
+    margin-top: 50px;
+    font-size: 13px; }
   .button_submit {
-    height: 45px; }
+    height: 45px;
+    font-size: 13px; }
 
   .title {
     font-size: 22px; }
